@@ -86,7 +86,6 @@ img {
   align-items: center;
   background-color: #ede5d8;
   border-radius: 12px;
-  overflow: hidden;
 }
 
 .header__search {
@@ -321,18 +320,6 @@ img {
   font-weight: 700;
   font-size: 18px;
   color: #fff;
-}
-
-.hero__badge--red {
-  background-color: #ff4d4d;
-  bottom: 60px;
-  left: 10px;
-}
-
-.hero__badge--green {
-  background-color: #4caf50;
-  bottom: 20px;
-  right: 10px;
 }
 
 @media (max-width: 1100px) {
